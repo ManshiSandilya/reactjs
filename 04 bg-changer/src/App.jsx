@@ -7,7 +7,7 @@ function App() {
     <div
       className="w-full h-screen duration-200"
       style={{
-        background: color, // Changed from backgroundColor to background
+        background: color, 
         width: "100vw",
         height: "100vh",
         display: "block",
